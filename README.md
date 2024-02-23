@@ -38,7 +38,7 @@ This program displays a fake Windows update screen that mimics the appearance of
 
 ## Usage
 
-Simply run the Python script `fake_maj.py` to start the fake update process.
+Simply run the Python script `fake_maj.py` or  `fake_maj.exe` to start the fake update process.
 
 ```bash
 - python fake_maj.py
