@@ -43,3 +43,7 @@ Simply run the Python script `fake_maj.py` or  `fake_maj.exe` to start the fake 
 ```bash
 - python fake_maj.py
 - fake_maj.exe
+```
+## Disclaimer
+
+This program is provided for educational and entertainment purposes only. The author shall not be held responsible for any misuse or damage caused by this program. Users are advised to use this program responsibly and in compliance with applicable laws and regulations.
